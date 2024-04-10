@@ -13,5 +13,5 @@
 
 1 - Clonar o Repositório, utiliza o comando: <strong> git clone https://github.com/denisquintasluiz/compiler-Jflex_lexical_analyzer.git </strong> <br>
 
-2- Navegue para o ficheiro CodigoFonte.java e execute o programa</strong> <br>
+2- Navegue para o ficheiro <strong>CodigoFonte.java</strong> e execute o programa</strong> <br>
 
